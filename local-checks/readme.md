@@ -1,5 +1,5 @@
-## local-checks
+#local-checks
 
-# cmk_cifsmounts
+## cmk_cifsmounts
 
 Script ermittelt anhand /proc/mounts 
