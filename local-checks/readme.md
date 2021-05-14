@@ -2,7 +2,7 @@
 
 ## cmk_cifsmounts
 
-Script ermittelt anhand "/proc/mounts" cifs mounts und prüft mit ls ob auf die entsprechenden mountpoints zugegriffen werden kann.
+Script ermittelt anhand "/proc/mounts" cifs-mounts und prüft mit ls ob auf die entsprechenden mountpoints zugegriffen werden kann.
 Im Script wird das Kommando timeout verwendet um ein hängen z.B. bei nicht Erreichbarkeit zu verhindern.
 
 Script muss im local Verzeichnis des checkmk -Agents ausführbar abgelegt werden.
